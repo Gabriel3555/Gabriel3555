@@ -6,13 +6,10 @@ Soy desarrollador de software enfocado en el desarrollo backend, apasionado por 
 
 ## 🛠️ Tecnologías y herramientas
 
-<p>
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Framework" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?logo=spring&logoColor=white" alt="Spring Cloud" height="40"/>
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?logo=spring&logoColor=white" alt="Spring Security" height="40"/>
-  <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white" alt="JWT" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
