@@ -21,7 +21,7 @@ Soy desarrollador de software enfocado en el desarrollo backend, apasionado por 
 
 ## 📫 Contacto
 
-- Email: gabrielbarrantes35@gmail.com
-- LinkedIn: [Tu perfil](https://www.linkedin.com/in/gabriel-barrantes35/)
+[![Email](https://img.shields.io/badge/Email-gabrielbarrantes35@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielbarrantes35@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Barrantes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-barrantes35/)
 
 ---
