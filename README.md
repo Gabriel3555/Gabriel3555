@@ -1,16 +1,20 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Gabriel3555
 
-<!--
-**Gabriel3555/Gabriel3555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub. Soy desarrollador de software apasionado por los microservicios, la web y la automatización.
 
-Here are some ideas to get you started:
+## 🚀 Proyectos destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [PatientDoctor](https://github.com/Gabriel3555/PatientDoctor): Sistema de microservicios para gestión de pacientes y doctores.
+- [AgroMarket](https://github.com/Gabriel3555/AgroMarket): Plataforma web para el sector agrícola.
+- [DuitamaBiblioteca](https://github.com/Gabriel3555/DuitamaBiblioteca): Gestión de bibliotecas con Jakarta EE.
+
+## 📫 Contacto
+
+- Email: tuemail@ejemplo.com
+- LinkedIn: [Tu perfil](https://linkedin.com/in/tuusuario)
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Gabriel3555&show_icons=true&theme=radical)
+
+---
+
+¡Gracias por visitar mi perfil!
